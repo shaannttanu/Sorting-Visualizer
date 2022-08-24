@@ -7,6 +7,6 @@
 - Quick Sort
 - Merge Sort
 
-YOU CAN VIEW THE PROJECT AT : https://gleaming-rolypoly-9b994e.netlify.app/
+YOU CAN VIEW THE PROJECT AT : https://singular-pudding-88e56a.netlify.app/
 
 ### This is built using HTML, CSS, JavaScript <br/>
